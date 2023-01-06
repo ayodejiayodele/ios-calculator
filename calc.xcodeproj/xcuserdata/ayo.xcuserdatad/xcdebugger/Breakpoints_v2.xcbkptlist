@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalcTest/CalcTest.swift"
+            timestampString = "513516143.094936"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "testParseInteger()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.CalcTest.testParseInteger () throws -&gt; ()"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513524518.143876"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.CalcTest.(testParseInteger () throws -&gt; ()).(implicit closure #1)"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513524518.149894"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.CalcTest.(testParseInteger () throws -&gt; ()).(implicit closure #2)"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513524518.155896"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.CalcTest.(testParseInteger () throws -&gt; ()).(implicit closure #3)"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513524518.1613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalcTest/CalcTest.swift"
+            timestampString = "513518089.714958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalcTest/CalcTest.swift"
+            timestampString = "513599380.833312"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "testDivide()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.CalcTest.testDivide () throws -&gt; ()"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513599385.995912"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.CalcTest.(testDivide () throws -&gt; ()).(implicit closure #1)"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513599385.998308"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.CalcTest.(testDivide () throws -&gt; ()).(implicit closure #2)"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513599386.000549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.CalcTest.(testDivide () throws -&gt; ()).(implicit closure #3)"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513599386.003381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalcTest/CalcTest.swift"
+            timestampString = "513658525.089112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "testHandleRationalValues()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.OptionalTests.testHandleRationalValues () throws -&gt; ()"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513661465.797545"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "212"
+                  endingLineNumber = "212"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.OptionalTests.(testHandleRationalValues () throws -&gt; ()).(implicit closure #1)"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513661465.800618"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "212"
+                  endingLineNumber = "212"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.OptionalTests.(testHandleRationalValues () throws -&gt; ()).(implicit closure #2)"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513661465.805882"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "212"
+                  endingLineNumber = "212"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalcTest.OptionalTests.(testHandleRationalValues () throws -&gt; ()).(implicit closure #3)"
+                  moduleName = "CalcTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayo/Documents/iOS%20-%2042889/Assignment%201/calc-master-ayo/CalcTest/CalcTest.swift"
+                  timestampString = "513661465.81198"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "212"
+                  endingLineNumber = "212"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
